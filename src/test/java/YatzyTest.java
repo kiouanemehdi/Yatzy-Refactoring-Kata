@@ -37,7 +37,6 @@ public class YatzyTest {
         assertEquals(12, new Yatzy(2,3,3,3,3).threes());
     }
 
-    //1- suivre la meme structure qui est simple
     @Test
     public void fours() 
     {
